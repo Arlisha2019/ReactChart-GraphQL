@@ -1,0 +1,10 @@
+body {
+ background: hotpink;
+ font-family: Arial, Helvetica, sans-serif;
+ color: aqua;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
